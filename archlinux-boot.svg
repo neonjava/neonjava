@@ -1,0 +1,23 @@
+<svg width="700" height="260" viewBox="0 0 700 260" xmlns="http://www.w3.org/2000/svg">
+<rect x="10" y="10" width="680" height="240" rx="10" fill="#050505" stroke="#1793d1"/>
+<rect x="10" y="10" width="680" height="30" rx="10" fill="#111"/><circle cx="30" cy="25" r="5" fill="#ff5f56"/>
+<circle cx="50" cy="25" r="5" fill="#ffbd2e"/>
+<circle cx="70" cy="25" r="5" fill="#27c93f"/><text x="20" y="60" font-family="monospace" font-size="14" fill="#1793d1">
+:: booting Arch Linux...
+</text><text x="20" y="90" font-family="monospace" font-size="14" fill="#1793d1" opacity="0">
+[ OK ] Started Network Manager
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.25;0.3;1" dur="6s" repeatCount="indefinite"/>
+</text><text x="20" y="120" font-family="monospace" font-size="14" fill="#1793d1" opacity="0">
+[ OK ] Mounted /home
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.45;0.5;1" dur="6s" repeatCount="indefinite"/>
+</text><text x="20" y="150" font-family="monospace" font-size="14" fill="#1793d1" opacity="0">
+[ OK ] Started Docker
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.65;0.7;1" dur="6s" repeatCount="indefinite"/>
+</text><text x="20" y="180" font-family="monospace" font-size="14" fill="#1793d1" opacity="0">
+[ OK ] Launching Hyprland
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.8;0.85;1" dur="6s" repeatCount="indefinite"/>
+</text><text x="20" y="210" font-family="monospace" font-size="14" fill="#1793d1" opacity="0">
+neon@archlinux ~ ❯ arch btw no turning back
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.9;0.92;1" dur="6s" repeatCount="indefinite"/>
+</text>
+</svg>
