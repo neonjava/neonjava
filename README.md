@@ -60,6 +60,11 @@ play.ninemc.fun
 ![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux)
 ![Arch](https://img.shields.io/badge/arch-linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
+<br/>
+
+![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
+
+<br/>
 
 <a href="https://github.com/neonjava" target="_blank">
   <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
