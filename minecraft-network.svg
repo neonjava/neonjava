@@ -14,7 +14,7 @@ $ syncing cross-server machines...
 $ region nodes online (IN1 IN2)
 <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.65;0.7;1" dur="6s" repeatCount="indefinite"/>
 </text><text x="20" y="190" font-family="monospace" font-size="14" fill="#00ffaa" opacity="0">
-$ play.ninesmp.fun connected ✓
+$ all servers connected ✓
 <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.85;0.9;1" dur="6s" repeatCount="indefinite"/>
 </text><rect x="20" y="205" width="10" height="16" fill="#00ffaa">
 <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
