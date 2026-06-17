@@ -31,13 +31,6 @@ Building scalable Minecraft infrastructure and distributed backend systems.
 
 Cross-server Minecraft infrastructure with machine sync and region based routing.
 
-```
-play.ninesmp.fun
-```
-
-```
-play.ninemc.fun
-```
 
 ---
 
