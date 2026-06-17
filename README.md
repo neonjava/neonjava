@@ -6,9 +6,9 @@
 Java Developer • Minecraft Systems Engineer • Backend Developer  
 Building scalable Minecraft infrastructure and distributed backend systems.
 
-![Portfolio](https://img.shields.io/badge/Portfolio-hemanthsp04.netlify.app-00eaff?style=for-the-badge)
+![Portfolio](https://img.shields.io/badge/Portfolio-neonjava.in-00eaff?style=for-the-badge)
 [![Discord](https://img.shields.io/badge/Discord-Message-00eaff?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/QvgyhQPyn3)
-[![Instagram](https://img.shields.io/badge/Instagram-@hemanthsp.dev-00eaff?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hemanthsp.dev)
+[![Instagram](https://img.shields.io/badge/Instagram-@neonjava.in-00eaff?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/neonjava.in)
 
 </div>
 
