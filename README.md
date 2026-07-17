@@ -21,7 +21,7 @@ Building scalable Minecraft infrastructure and distributed backend systems.
 - Experience with Velocity proxy, Redis and distributed architecture  
 - Familiar with Discord bot development and API integrations  
 - Basic web development knowledge (React / Node / REST)  
-- Arch Linux user for development and server management  
+- Linux user for development and server management  
 
 
 ---
@@ -34,7 +34,7 @@ Cross-server Minecraft infrastructure with machine sync and region based routing
 
 ---
 
-## Arch btw 🐧
+## Linux btw 🐧
 ![Arch Linux](./archlinux-boot.svg)
 
 ---
