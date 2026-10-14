@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="164" viewBox="0 0 500 164" role="img" aria-labelledby="title desc">
+  <title id="title">About Hemanth</title>
+  <desc id="desc">Animated terminal describing scalable software, Rust and Java, performance, and open-source work.</desc>
+  <rect x="2" y="2" width="496" height="160" rx="10" fill="#111217" stroke="#e77748" stroke-width="2"/>
+  <path d="M2 32h496" stroke="#353740"/>
+  <circle cx="18" cy="17" r="4" fill="#ff5f56"/><circle cx="32" cy="17" r="4" fill="#ffbd2e"/><circle cx="46" cy="17" r="4" fill="#27c93f"/>
+  <text x="20" y="62" fill="#e77748" font-family="monospace" font-size="16" font-weight="bold">$ whoami</text>
+  <text x="20" y="87" fill="#f2f2f2" font-family="monospace" font-size="14" opacity="0">Rustacean building scalable software.
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.18;0.23;1" dur="9s" repeatCount="indefinite"/>
+  </text>
+  <text x="20" y="112" fill="#a7dbab" font-family="monospace" font-size="14" opacity="0">Rust + Java. Performance + reliability.
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.48;0.53;1" dur="9s" repeatCount="indefinite"/>
+  </text>
+  <text x="20" y="139" fill="#e77748" font-family="monospace" font-size="14" opacity="0">Open source tools for real problems.
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.73;0.78;1" dur="9s" repeatCount="indefinite"/>
+  </text>
+</svg>
