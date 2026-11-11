@@ -1,7 +1,7 @@
 <div align="center">
 
 ### Hey there, I'm Hemanth <img src="./hi-smiley-github.gif" alt="Waving smiley" width="38" height="24" align="absmiddle" />
-**They call me Neon** · I build scalable software
+**They call me Neon** · I build scalable systems software
 
 <p align="center">
   <a href="https://neonjava.in"><img src="./social-portfolio.svg" alt="Portfolio" width="113" height="26" /></a>
